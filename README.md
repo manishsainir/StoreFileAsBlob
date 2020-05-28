@@ -1,1 +1,1 @@
- StoreFileAsCBlob
+ StoreFileAsBlob
